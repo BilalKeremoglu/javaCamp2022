@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Kamp.iml" filepath="$PROJECT_DIR$/Java-Kamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-0/Lesson-0.iml" filepath="$PROJECT_DIR$/Lesson-0/Lesson-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-1/Lesson-1.iml" filepath="$PROJECT_DIR$/Lesson-1/Lesson-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-2/Lesson-2.iml" filepath="$PROJECT_DIR$/Lesson-2/Lesson-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findNumber/findNumber.iml" filepath="$PROJECT_DIR$/findNumber/findNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" filepath="$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isThinVowel/isThinVowel.iml" filepath="$PROJECT_DIR$/isThinVowel/isThinVowel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+    </modules>
+  </component>
+</project>
