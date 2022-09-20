@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/findNumber/findNumber.iml" filepath="$PROJECT_DIR$/findNumber/findNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" filepath="$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/isThinVowel/isThinVowel.iml" filepath="$PROJECT_DIR$/isThinVowel/isThinVowel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson-0/isThinVowel/isThinVowel.iml" filepath="$PROJECT_DIR$/Lesson-0/isThinVowel/isThinVowel.iml" />
       <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
     </modules>
